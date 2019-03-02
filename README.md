@@ -17,4 +17,6 @@ linux-netspeed-script
 wget -N --no-check-certificate https://raw.githubusercontent.com/wulimaxjjj/linux-netspeed/master/tcp.sh && chmod +x tcp.sh && ./tcp.sh
 ```
 
+
+---
 ---
